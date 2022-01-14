@@ -75,11 +75,14 @@ git init
 # create the README file and add some contents
 echo "my-special-repo" >> README.md
 
-# add modified file to the git index
+# add the modified file to the git index
 git add README.md
 
 # wrap index files into a commit
 git commit -m "Initializing my profile repo"
+
+# move to the main branch aka create
+git branch -M main
 
 # tell git where the remote repo lives
 # substitute username and reponame values before executing
@@ -101,13 +104,11 @@ Let's give your GitHub account profile some style.
 
 
 
-Now that you know how to modify files locally, and push them to a remote repo at GitHub you deserve to flex a bit.  In this section, we are going to take advantage of a special kind of repo on GitHub called a `profile` repo that tells GitHub to display the README.md of the repo as a user profile object on the GitHub account profile page.  Not sure what I'm talking about?  Here are some pics:
+Now that you know how to modify files locally, and push them to a remote repo at GitHub you deserve to flex a bit.  In this section, we are going to take advantage of a special kind of repo on GitHub called a `profile` repo that tells GitHub to display the **README.md** of the repo as a user profile object on the GitHub account profile page.  Not sure what I'm talking about?  Here are some pics:
 
 Standard GitHub profile look.  No hate Dorothy, you were completely random.
 
 ![](<.gitbook/assets/image (2).png>)
-
-
 
 One example of customization.  Everything inside of the red box is read directly from the `README.md` that exists in the root of our repo that we just created.
 
@@ -148,7 +149,7 @@ If you've made it this far successfully, you are on your way to good things.  Gi
 
 ## Wrapup
 
-In this week's course we learned...
+In this week's course, we learned...
 
 1. How to create a GitHub account
 2. How to create a private SSH key that will keep our connection secure
@@ -157,10 +158,10 @@ In this week's course we learned...
 5. How to push a file to GitHub
 6. How to pimp out our GitHub account profile
 
-This process, and the experienced gained from using git can benefit you in various ways, and will be used in every position you run across.  Practice, and get familiar.  You will be here a lot during your career.
+This process, and the experience gained from using git can benefit you in various ways and will be used in every position you run across.  Practice, and get familiar.  You will be here a lot during your career.
 
 ### Homework
 
-* [ ] Setup a code editor of your choice to use going forward.  A lot of folks like VS Code made by Microsoft, but there are plenty of options.  Choose your favorite and get it setup fo next week's class.
+* [ ] Setup a code editor of your choice to use going forward.  A lot of folks like **VS Code** made by Microsoft, but there are plenty of options.  Choose your favorite and get it setup fo next week's class.
 
-Check back next week when we cover Core Python Functions and Functional Programming.  Variables, Data Types, Conditionals, Lists, DIctionaries, Loops, Files, and Modules.  Don't miss out!
+Check back next week when we cover Core Python **Functions** and **Functional Programming**.  **Variables**, **Data** **Types**, **Conditionals**, **Lists**, **Dictionaries**, **Loops**, **Files**, and **Modules**.  Don't miss out!
