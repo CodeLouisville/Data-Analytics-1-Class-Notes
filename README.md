@@ -34,7 +34,7 @@ To take advantage of the analytics libraries that exist for Python like NumPy, a
 ## [Iterators](./modules/iterators/README.md)
 Iterators and Iterables, Collect Protocols, Container, Sized, Iterable, Sequence, Performance Refactors, Collection Base Classes, Set Protocol
 
-## [Resource and Error Handling](./resource-and-error-handling/README.md)
+## [Resource and Error Handling](./modules/resource-and-error-handling/README.md)
 Exceptions, Tracebacks, Assertions, Context Managers
 
 
