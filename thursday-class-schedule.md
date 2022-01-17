@@ -1,4 +1,4 @@
 # Thursday class schedule
 
-- Jan 13 - [Git & Github](/README.md#Git_and_GitHub)
+- Jan 13 - [Git & Github](/README.md#git-and-github)
 - Jan 20 - Topic TBC
