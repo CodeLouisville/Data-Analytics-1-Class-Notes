@@ -1,4 +1,8 @@
-# Table of Contents
+# Class Schedules
+- [Monday Class](monday-class-schedule.md)
+- [Thursday Class](thursday-class-schedule.md)
+
+# Demos
 
 1. [Git & Github](./demo-files/git-github/README.md)
 1. [Data Analyiss Process](./demo-files/data-analysis/data-analysis.md)
