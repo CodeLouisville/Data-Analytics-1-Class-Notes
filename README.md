@@ -1,15 +1,7 @@
----
-description: This course starts off with learning about basic Python programming.
-cover: .gitbook/assets/image.png
-coverY: -354.0739666424946
----
+# Table of Contents
 
-# Data Development Pathway with Python and SQL
-
-The first class is learning basic Python programming, along with version control (Git) to build a project of your choosing.
-
-{% hint style="info" %}
-The coding world is challenging.  Imposter syndrome is real.  Self doubt is real.  Know that even experienced coders deal with this.  You are not alone.  Some days you will hate code, other days you feel invicible.  Breath, relax, we'll get through it together.
-{% endhint %}
-
-Now, click the box below to get started.
+1. [Git & Github](./demo-files/git-github/README.md)
+1. [Data Analyiss Process](./demo-files/data-analysis/data-analysis.md)
+1. [Project structures for data analysis](./demo-files/project-structures/project-structures.md)
+1. Reading and writing data from files
+1. CLI (command line interface) apps
