@@ -1,5 +1,5 @@
 # Git & Github
->Navigation:  [Home](../../README)
+>Navigation:  [Home](../../README.md)
 
 ## Contents
 1. [Demo Overview](#demo-overview)
