@@ -12,6 +12,24 @@ Whether you are a student, or mentor your pull requests are welcome.  If you are
 
 
 
+# Prerequisites
+>INFO: The following are paid PluralSight links.
+
+Introductory-level content to consume prior to diving into [Core Python and Git](#core-python-and-git)
+
+* [Core Python: Big Picture](https://app.pluralsight.com/library/courses/6c463cc0-cb3f-43b3-be18-1372ea18cfb2)
+* [Visual Studio Code for Python Development](https://app.pluralsight.com/guides/visual-studio-code-for-python-development)
+* [Practice Python for Beginners](https://app.pluralsight.com/library/courses/162256df-2d1b-4100-9780-9a931bf22855)
+* [Python Basics: Strings](https://app.pluralsight.com/guides/python-basics-strings)
+* [Managing Python Packages and Virtual Environments](https://app.pluralsight.com/library/courses/ae9bc11d-3e1f-4527-af80-9cf337b0e4ca)
+* [Importing Data in Python](https://app.pluralsight.com/guides/importing-data-in-python)
+* [Build a Personal Budge Report with Python Collections and Iterables](https://app.pluralsight.com/projects/build-personal-budget-report-with-python-collections-and-iterables)
+* [Data Science for Beginners](https://app.pluralsight.com/guides/data-science-for-beginners)
+* [Doing Data Science with Python](https://app.pluralsight.com/library/courses/18da7f13-429c-4f83-a844-b408c87873e1)
+* [Git:  The Big Picture](https://app.pluralsight.com/library/courses/git-big-picture/table-of-contents)
+
+
+
 # Class Schedules
 Each class is following the same course syllabus, and therefore should be identical in their lessons.  In reality, sometimes there are extenuating circustances that prevents the class from meeting, and the class must adjust.  To help with those adjustments, below are links to each class' schedule.  If you are not sure which module we are on, reference the schedule.
 
@@ -37,6 +55,13 @@ Iterators and Iterables, Collect Protocols, Container, Sized, Iterable, Sequence
 
 ## [Resource and Error Handling](./modules/resource-and-error-handling/README.md)
 Exceptions, Tracebacks, Assertions, Context Managers
+
+## [Introspection and Numeric Types](./modules/introspection/README.md)
+Types, Objects, Scopes, Inspect Module & Tool, int, float, decimal module, fractions module, complex numbers, number built-in functions, dates, times, datetime module, geometry
+
+## [The Future of Python](./modules/future-of-python/README.md)
+What will the future hold for the langugage?
+
 
 
 
