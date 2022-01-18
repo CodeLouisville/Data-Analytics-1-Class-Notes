@@ -13,10 +13,11 @@ Whether you are a student, or mentor your pull requests are welcome.  If you are
 
 
 # Class Schedules
-Each class is following the same course syllabus, and therefor should be identical in they're lessons.  In reality, sometimes there are extenuating circustances that prevents the class from meeting, and the class must adjust.  To help with those adjustments, below are links to each class' schedule.  If you are not sure which module we are on, reference the schedule.
+Each class is following the same course syllabus, and therefore should be identical in their lessons.  In reality, sometimes there are extenuating circustances that prevents the class from meeting, and the class must adjust.  To help with those adjustments, below are links to each class' schedule.  If you are not sure which module we are on, reference the schedule.
 
-- [Monday Class](monday-class-schedule.md)
-- [Thursday Class](thursday-class-schedule.md)
+## [Monday Class Schedule](monday-class-schedule.md)
+
+## [Thursday Class Schedule](thursday-class-schedule.md)
 
 # Core Python and Git
 ## [Git and GitHub](./modules/git-github/README.md)
