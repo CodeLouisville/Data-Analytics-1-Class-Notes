@@ -41,38 +41,36 @@ Each class is following the same course syllabus, and therefore should be identi
 ## [Git and GitHub](./modules/git-github/README.md)
 The goal of this demo is to learn a basic git workflow using a personal repository on GitHub to save and share your project.
 
-## [Functions and Functional Programming](./modules/functions-and-functional-programming/README.md)
+## [Functions and Functional Programming](./modules/functions-and-functional-programming/README.md) (Coming Soon)
 Functions, Variables, Data Types, Conditionals, Lists, Dictionaries, Loops, Files, and Modules are the focus for this module.  
 
-## [Classes and Object-orientation](./modules/classes-and-object-orientation/README.md)
+## [Classes and Object-orientation](./modules/classes-and-object-orientation/README.md) (Coming Soon)
 Class attributes, methods, properties, inheritance/resolution order, decorators, nesting modules with packages, implementing packages, namespaces, package layout and distribution.
 
-## [Importing data](./modules/importing-data/README.md)
+## [Importing data](./modules/importing-data/README.md) (Coming Soon)
 To take advantage of the analytics libraries that exist for Python like NumPy, and Pandas you need data to analyse.  Let's look at a few ways to import data.
 
-## [Iterators](./modules/iterators/README.md)
+## [Iterators](./modules/iterators/README.md) (Coming Soon)
 Iterators and Iterables, Collect Protocols, Container, Sized, Iterable, Sequence, Performance Refactors, Collection Base Classes, Set Protocol
 
-## [Resource and Error Handling](./modules/resource-and-error-handling/README.md)
+## [Resource and Error Handling](./modules/resource-and-error-handling/README.md) (Coming Soon)
 Exceptions, Tracebacks, Assertions, Context Managers
 
-## [Introspection and Numeric Types](./modules/introspection/README.md)
+## [Introspection and Numeric Types](./modules/introspection/README.md) (Coming Soon)
 Types, Objects, Scopes, Inspect Module & Tool, int, float, decimal module, fractions module, complex numbers, number built-in functions, dates, times, datetime module, geometry
 
-## [The Future of Python](./modules/future-of-python/README.md)
+## [The Future of Python](./modules/future-of-python/README.md) (Coming Soon)
 What will the future hold for the langugage?
 
-
+## [CLI (command line interface) apps](./modules/command-line-apps/README.md) (Coming Soon)
+Interacting with your app.
 
 
 # Data Analysis
 With Python's vast Data Science library collection it is only fitting that we explore some of these powerful tools.  As a Data Analyst/Scientist, etc these libraries along with a creative mindset will be critical to your success.  Aside from the code, there are some general processes that are helpful to know when you're getting started.  Follow along in the subsequent modules to learn more.
 
-## [Data Analyiss Process](./modules/data-analysis/README.md)
+## [Data Analyiss Process](./modules/data-analysis/README.md) (Coming Soon)
 In this module we explore the process of breaking things down.
 
-## [Project structures for data analysis](./modules/project-structures/README.md)
+## [Project structures for data analysis](./modules/project-structures/README.md) (Coming Soon)
 Common directory layouts used while anaylyzing data.
-
-## [CLI (command line interface) apps](./modules/command-line-apps/README.md)
-Interacting with your app.
