@@ -1,0 +1,20 @@
+{
+    "ALARM": 19459,
+    "FIRE": 15005,
+    "MEDICAL": 92826,
+    "ACCIDENT": 7361,
+    "ASSIST": 10891,
+    "CHEMICAL": 4687,
+    "GAS_LEAK": 2151,
+    "Arson Investigation": 656,
+    "RESCUE": 957,
+    "WATER_LEAK": 623,
+    "LOCK_OUT/IN": 1425,
+    "WIRES_DOWN": 1919,
+    "SPECIAL": 442,
+    "GENERAL HAZARD": 405,
+    "WEATHER": 76,
+    "SEARCH": 5,
+    "AIRCRAFT": 7,
+    "ACTIVE AGGRESSOR": 3
+}

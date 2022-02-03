@@ -1,0 +1,222 @@
+{
+    "40202": {
+        "CALL_TOTAL": 10451,
+        "FIRE_TOTAL": 551,
+        "OTHER_TOTAL": 9900
+    },
+    "40215": {
+        "CALL_TOTAL": 7349,
+        "FIRE_TOTAL": 684,
+        "OTHER_TOTAL": 6665
+    },
+    "40210": {
+        "CALL_TOTAL": 6268,
+        "FIRE_TOTAL": 601,
+        "OTHER_TOTAL": 5667
+    },
+    "40214": {
+        "CALL_TOTAL": 8131,
+        "FIRE_TOTAL": 928,
+        "OTHER_TOTAL": 7203
+    },
+    "40258": {
+        "CALL_TOTAL": 3855,
+        "FIRE_TOTAL": 384,
+        "OTHER_TOTAL": 3471
+    },
+    "40222": {
+        "CALL_TOTAL": 3689,
+        "FIRE_TOTAL": 251,
+        "OTHER_TOTAL": 3438
+    },
+    "40223": {
+        "CALL_TOTAL": 3203,
+        "FIRE_TOTAL": 207,
+        "OTHER_TOTAL": 2996
+    },
+    "40211": {
+        "CALL_TOTAL": 8715,
+        "FIRE_TOTAL": 784,
+        "OTHER_TOTAL": 7931
+    },
+    "40245": {
+        "CALL_TOTAL": 3357,
+        "FIRE_TOTAL": 229,
+        "OTHER_TOTAL": 3128
+    },
+    "40213": {
+        "CALL_TOTAL": 4498,
+        "FIRE_TOTAL": 571,
+        "OTHER_TOTAL": 3927
+    },
+    "40216": {
+        "CALL_TOTAL": 11214,
+        "FIRE_TOTAL": 1102,
+        "OTHER_TOTAL": 10112
+    },
+    "40299": {
+        "CALL_TOTAL": 4739,
+        "FIRE_TOTAL": 439,
+        "OTHER_TOTAL": 4300
+    },
+    "40272": {
+        "CALL_TOTAL": 5836,
+        "FIRE_TOTAL": 671,
+        "OTHER_TOTAL": 5165
+    },
+    "40209": {
+        "CALL_TOTAL": 1027,
+        "FIRE_TOTAL": 120,
+        "OTHER_TOTAL": 907
+    },
+    "40177": {
+        "CALL_TOTAL": 89,
+        "FIRE_TOTAL": 21,
+        "OTHER_TOTAL": 68
+    },
+    "40212": {
+        "CALL_TOTAL": 7242,
+        "FIRE_TOTAL": 753,
+        "OTHER_TOTAL": 6489
+    },
+    "40243": {
+        "CALL_TOTAL": 2002,
+        "FIRE_TOTAL": 96,
+        "OTHER_TOTAL": 1906
+    },
+    "40220": {
+        "CALL_TOTAL": 4573,
+        "FIRE_TOTAL": 411,
+        "OTHER_TOTAL": 4162
+    },
+    "40204": {
+        "CALL_TOTAL": 3079,
+        "FIRE_TOTAL": 290,
+        "OTHER_TOTAL": 2789
+    },
+    "40218": {
+        "CALL_TOTAL": 6600,
+        "FIRE_TOTAL": 609,
+        "OTHER_TOTAL": 5991
+    },
+    "40208": {
+        "CALL_TOTAL": 4810,
+        "FIRE_TOTAL": 444,
+        "OTHER_TOTAL": 4366
+    },
+    "40203": {
+        "CALL_TOTAL": 12500,
+        "FIRE_TOTAL": 957,
+        "OTHER_TOTAL": 11543
+    },
+    "40207": {
+        "CALL_TOTAL": 4976,
+        "FIRE_TOTAL": 358,
+        "OTHER_TOTAL": 4618
+    },
+    "40118": {
+        "CALL_TOTAL": 1139,
+        "FIRE_TOTAL": 266,
+        "OTHER_TOTAL": 873
+    },
+    "40219": {
+        "CALL_TOTAL": 4244,
+        "FIRE_TOTAL": 753,
+        "OTHER_TOTAL": 3491
+    },
+    "40206": {
+        "CALL_TOTAL": 3627,
+        "FIRE_TOTAL": 357,
+        "OTHER_TOTAL": 3270
+    },
+    "40229": {
+        "CALL_TOTAL": 1816,
+        "FIRE_TOTAL": 356,
+        "OTHER_TOTAL": 1460
+    },
+    "40291": {
+        "CALL_TOTAL": 3578,
+        "FIRE_TOTAL": 417,
+        "OTHER_TOTAL": 3161
+    },
+    "40205": {
+        "CALL_TOTAL": 3872,
+        "FIRE_TOTAL": 240,
+        "OTHER_TOTAL": 3632
+    },
+    "40241": {
+        "CALL_TOTAL": 4433,
+        "FIRE_TOTAL": 275,
+        "OTHER_TOTAL": 4158
+    },
+    "40059": {
+        "CALL_TOTAL": 1510,
+        "FIRE_TOTAL": 94,
+        "OTHER_TOTAL": 1416
+    },
+    "40228": {
+        "CALL_TOTAL": 1535,
+        "FIRE_TOTAL": 208,
+        "OTHER_TOTAL": 1327
+    },
+    "40217": {
+        "CALL_TOTAL": 2887,
+        "FIRE_TOTAL": 182,
+        "OTHER_TOTAL": 2705
+    },
+    "Unknown": {
+        "CALL_TOTAL": 496,
+        "FIRE_TOTAL": 172,
+        "OTHER_TOTAL": 324
+    },
+    "40242": {
+        "CALL_TOTAL": 911,
+        "FIRE_TOTAL": 89,
+        "OTHER_TOTAL": 822
+    },
+    "40225": {
+        "CALL_TOTAL": 140,
+        "FIRE_TOTAL": 65,
+        "OTHER_TOTAL": 75
+    },
+    "40014": {
+        "CALL_TOTAL": 152,
+        "FIRE_TOTAL": 13,
+        "OTHER_TOTAL": 139
+    },
+    "40025": {
+        "CALL_TOTAL": 28,
+        "FIRE_TOTAL": 0,
+        "OTHER_TOTAL": 28
+    },
+    "40023": {
+        "CALL_TOTAL": 301,
+        "FIRE_TOTAL": 54,
+        "OTHER_TOTAL": 247
+    },
+    "40165": {
+        "CALL_TOTAL": 7,
+        "FIRE_TOTAL": 0,
+        "OTHER_TOTAL": 7
+    },
+    "40047": {
+        "CALL_TOTAL": 3,
+        "FIRE_TOTAL": 0,
+        "OTHER_TOTAL": 3
+    },
+    "40071": {
+        "CALL_TOTAL": 7,
+        "FIRE_TOTAL": 1,
+        "OTHER_TOTAL": 6
+    },
+    "40067": {
+        "CALL_TOTAL": 6,
+        "FIRE_TOTAL": 1,
+        "OTHER_TOTAL": 5
+    },
+    "40022": {
+        "CALL_TOTAL": 3,
+        "FIRE_TOTAL": 1,
+        "OTHER_TOTAL": 2
+    }
+}
