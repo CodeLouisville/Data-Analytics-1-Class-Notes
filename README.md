@@ -31,11 +31,6 @@ Whether you are a student, or mentor your pull requests are welcome.  If you are
 ### [Prework Notes](./modules/prework/)
 
 ### [Virtual Environments](./modules/virtual-environments/)
-Notes on using virtual environments.
-
-
-### Class Schedules
-Each class is following the same course syllabus, and therefore should be identical in their lessons.  In reality, sometimes there are extenuating circustances that prevents the class from meeting, and the class must adjust.  To help with those adjustments, below are links to each class' schedule.  If you are not sure which module we are on, reference the schedule.
 
 
 ## Demos

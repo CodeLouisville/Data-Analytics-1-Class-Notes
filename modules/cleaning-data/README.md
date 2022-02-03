@@ -1,4 +1,4 @@
-# Data Cleaning
+# Cleaning Data
 
 ## Contents
 1. [Demo Overview](#demo-overview)

@@ -1,6 +1,6 @@
 import json
 
-CATEGORY_FILE_PATH = 'data/clean/call_data_by_category.json'
+CATEGORY_FILE_PATH = './modules/cleaning-data/data/clean/call_data_by_category.json'
 
 print('Categories:')
 with open(CATEGORY_FILE_PATH) as file:

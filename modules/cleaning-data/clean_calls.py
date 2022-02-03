@@ -2,8 +2,8 @@ import csv
 import json
 
 # constants for the raw and clean data file paths
-INPUT_FILE_PATH = 'data/raw/Fire_Open_Data.csv'
-CATEGORY_OUTPUT_FILE_PATH = 'data/clean/call_data_by_category.json'
+INPUT_FILE_PATH = './modules/cleaning-data/data/raw/Fire_Open_Data.csv'
+CATEGORY_OUTPUT_FILE_PATH = './modules/cleaning-data/data/clean/call_data_by_category.json'
 
 # open the input file in a context manager
 with open(INPUT_FILE_PATH) as csv_file:
