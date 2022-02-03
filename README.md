@@ -39,7 +39,7 @@ Whether you are a student, or mentor your pull requests are welcome.  If you are
 ### [Git and GitHub](./modules/git-github/)
 The goal of this demo is to learn a basic git workflow using a personal repository on GitHub to save and share your project.
 
-### [Importing CSV Data](./modules/importing-csv-data/)
+### [Importing CSV Data](./modules/importing-csv-data/sales_calculator/)
 This demo covers generating test data and importing csv files.
 
 ### [Cleaning Data](./modules/cleaning-data/)
