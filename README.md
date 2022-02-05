@@ -7,10 +7,8 @@ The first class is learning basic Python programming, along with version control
 >INFO:  The coding world is challenging.  Imposter syndrome is real.  Self doubt is real.  Know that even experienced coders deal with this.  You are not alone.  Some days you will hate code, other days you feel invicible.  Breath, relax, we'll get through it together.
 
 
-
 ### Contributions
 Whether you are a student, or mentor your pull requests are welcome.  If you are creating a new module, there is a [template](./modules/demo-template.md) to get you going.
-
 
 
 ### Prerequisites
@@ -29,12 +27,13 @@ Whether you are a student, or mentor your pull requests are welcome.  If you are
 
 
 ### [Prework Notes](./modules/prework/)
+These are the notes and code from the prework material.  If you have little or no Python experience, this content should be consumed prior to the Demos.
 
 ### [Virtual Environments](./modules/virtual-environments/)
-
+As part of managing your local development environment; virtual environments are a must (unless you are using an advanced technique with containers).  These will help keep your computer environment clean and safe.
 
 ## Demos
-
+Below is a collection of demos from the Python Data Science Course.  They are in no particular order.
 
 ### [Git and GitHub](./modules/git-github/)
 The goal of this demo is to learn a basic git workflow using a personal repository on GitHub to save and share your project.
@@ -44,3 +43,6 @@ This demo covers generating test data and importing csv files.
 
 ### [Cleaning Data](./modules/cleaning-data/)
 This demo covers basic data discovery and cleaning for a sample analytics project.
+
+### [Putting it all together](./modules/putting-it-together/)
+This demo covers a basic project implementation to model what a perspective class project could look like.
