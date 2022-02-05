@@ -11,8 +11,8 @@ Please update if links are found to be out of date.
 - [Bureau of Labor Statistics](https://www.bls.gov/data/) - slightly clunky interface. Many downloads are in `.xlxs` format.
 - [FiveThirtyEight](https://data.fivethirtyeight.com/) -  politics, sports, science and health, economics, and culture.
 - [Census Bureau](https://www.census.gov/data.html) - U.S. Census data. Site also has built in visualization tools
-- [U.S. Gov. Open Data](https://www.data.gov/) - U.S. Governments repository for open data sets.
-
+- [U.S. Gov. Open Data](https://www.data.gov/) - U.S. Governments repository for open data sets
+- [BiqQuery Subreddit](https://www.reddit.com/r/bigquery/wiki/datasets) - curated list of datasets 
 ### APIs
 - [RapidAPI](https://rapidapi.com/collection/list-of-free-apis) - explore and test a variety of free APIs with included code snippets.
 - [Public API list](https://github.com/public-apis/public-apis) - Maintained list of free APIs with a basic overview of authentication and connectivity
