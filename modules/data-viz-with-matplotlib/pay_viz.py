@@ -58,24 +58,21 @@ def transform_percentage(x):
 bonus_perc = df["bonus_perc"].apply(transform_percentage)
 
 # Lets try a new type of plot.
-# It might be interesting to see the age distribution of self-reported female participants
+# It might be interesting to see the compensation broken down by education
 # For that a histogram might be better than a scatterplot
 
-# First we need to filter our dataframe by only rows where the gender is female
+# First we need to filter our dataframe by only rows where the entry has a PhD
 # Thankfully pandas makes this very straightforward
 
-filtered_df_for_female = df[df.Gender == "Female"]
-female_age = filtered_df_for_female["Age"]
+filtered_df_for_phd = df[df.Education == "PhD"]
+phd_age = filtered_df_for_phd["total_comp"]
 
-plt.hist(female_age)
-plt.xlabel("Female Age")
+plt.hist(phd_age)
+plt.xlabel("PhD total comp")
 # plt.show()
 
-# This tells us a bit about our data set in particular but doesn't offer any
-# earthshattering conclusions. We can see that our data is fairly well distributed
-# by age for this dimension.
 
-# Lets make a more interesting histogram. Lets do a side by side binning of Male/Female
+# Lets make a more interesting histogram. Lets do a side by side binning
 # in the same histogram by total compensation
 
 #setup our filtered dfs
@@ -84,7 +81,6 @@ female_total_comp = df[df.Gender == "Female"]["total_comp"]
 
 n_bins = 15
 
-# plt.legend(prop={'size': 10})
 plt.hist(
     [male_total_comp, female_total_comp],
     n_bins,
@@ -93,6 +89,4 @@ plt.hist(
     label=["Male", "Female"]
 )
 plt.legend()
-plt.show()
-
-# Lets do that again but show the distribution curve
+# plt.show()
