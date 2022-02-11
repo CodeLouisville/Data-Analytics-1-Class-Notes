@@ -1,5 +1,12 @@
 # Basic Data Visualization with matplotlib
 
+1. [Overview](#overview)
+2. [Dimensions](#dimensions)
+3. [Questions](#questions)
+4. [Demo Prereqs](#demo-prereqs)
+5. [Demo Time](#demo-time)
+6. [Additional Resources](#additional-resources)
+
 ## Overview
 In this demo we will take a dataset of surveyed salary information from glassdoor.com and try to use data visualizations to identify patterns.
 
@@ -43,4 +50,9 @@ We could also choose to weight a certain dimension by another. E.g. Total compen
   - `pip install matplotlib pandas`
 - the csv `glassdoor_pay_gap.csv` included in this repository
 
-## Demo
+## Demo Time
+See `pay_viz.py`
+
+## Additional Resources
+[Pandas data frame docs](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.html)
+[matplotlib docs](https://matplotlib.org/stable/)
