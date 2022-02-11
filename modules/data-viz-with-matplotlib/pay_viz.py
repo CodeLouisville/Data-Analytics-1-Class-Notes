@@ -1,7 +1,7 @@
 import pandas as pd
 from matplotlib import pyplot as plt
 
-#pandas is actual magic
+# pandas is actual magic
 df = pd.read_csv("glassdoor_pay_gap.csv")
 
 title, gender, age, perf_eval, education, dept, seniority, base_pay, bonus = [df[key] for key in df.columns]
@@ -29,8 +29,8 @@ total_comp = df["total_comp"]
 
 plt.scatter(gender, total_comp, alpha=.5)
 plt.title("Total Comp by gender")
-plt.ylabel("Gender")
-plt.xlabel("Total Comp")
+plt.ylabel("Total Comp")
+plt.xlabel("Gender")
 
 # plt.show()
 #NOTE: after setting up a plot obj (`plt`) you need to call `plt.show()`
@@ -40,8 +40,8 @@ plt.xlabel("Total Comp")
 
 plt.scatter(title, total_comp, alpha=.5)
 plt.title("Total Comp by title")
-plt.ylabel("Title")
-plt.xlabel("Total Comp")
+plt.xlabel("Title")
+plt.ylabel("Total Comp")
 # plt.show()
 
 # Lets take on a slightly more complex column creation.
@@ -89,4 +89,27 @@ plt.hist(
     label=["Male", "Female"]
 )
 plt.legend()
+# plt.show()
+
+# Lets use what we know about overlaying plots and see some data in three dimensions
+# Lets visualize male vs female total compensation binned by job title.
+
+#first we need to filter our data frame by gender
+male_df = df[df.Gender == "Male"]
+female_df = df[df.Gender == "Female"]
+
+#next we can get our two dimensions from each filtered dataframe
+male_job_title = male_df.JobTitle
+male_total_comp = male_df.total_comp
+female_job_title = female_df.JobTitle
+female_total_comp = female_df.total_comp
+
+# now we can bring in matplot lib to plot both sets of data together
+plt.figure()
+plt.scatter(male_job_title, male_total_comp, color="Blue", label="Male", alpha=.6)
+plt.scatter(female_job_title, female_total_comp, color="Orange", label="female", alpha=.6)
+plt.legend()
+plt.xlabel("Job Title")
+plt.xlabel("Total Comp")
+
 # plt.show()
