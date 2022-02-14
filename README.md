@@ -47,5 +47,8 @@ This demo covers basic data discovery and cleaning for a sample analytics projec
 ### [Putting it all together](./modules/putting-it-together/)
 This demo covers a basic project implementation to model what a perspective class project could look like.
 
+### [Data Visualization](./modules/data-viz-with-matplotlib)
+This demo covers a basic visualization implementation with pandas and matplotlib
+
 ### [Free Data Sets](./modules/where-to-get-data/)
 A list of free data sets and API's to be used as project resources
