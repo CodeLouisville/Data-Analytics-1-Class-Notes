@@ -3,9 +3,12 @@ MENU = {
     2: "option 2",
     3: "option 3",
     4: "option 4",
-    5: "stock option",
-    6: "exit",
 }
+
+def add_to_menu(item, menu):
+    new_key = len(MENU.keys()) + 1
+    menu[new_key] = item
+    return menu
 
 def get_prompt(menu):
     prompt = "Select an option:\n"
