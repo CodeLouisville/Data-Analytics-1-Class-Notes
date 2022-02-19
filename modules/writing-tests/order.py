@@ -13,14 +13,16 @@ def add_to_menu(item, menu):
 def get_prompt(menu):
     prompt = "Select an option:\n"
     options = []
-    for key, value in menu.items():
-        options.append("{}: {}".format(key, value))
+    try:
+        for key, value in menu.items():
+            options.append("{}: {}".format(key, value))
+    except AttributeError as exc:
+        raise(AttributeError(f"get_prompt requires a dict as input"))
 
     prompt += ("\n".join(options))
     return prompt
 
 def user_input(prompt):
-    print(prompt)
     return input()
 
 def main():
