@@ -26,6 +26,8 @@ API stands for Application Programming Interface and broadly speaking is a middl
 3. https://www.redhat.com/en/topics/api/what-is-a-rest-api
 4. https://developer.mozilla.org/en-US/docs/Web/HTTP/Status
 5. https://www.postman.com/
+6. https://docs.python-requests.org/en/latest/api/
+7. https://restfulapi.net/http-methods/
 
 ## Demo
 

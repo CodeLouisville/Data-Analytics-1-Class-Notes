@@ -1,6 +1,7 @@
 import requests
 import logging
 from secrets import get_secret_key
+import traceback
 
 logging.basicConfig(filename="requests.log", level=logging.INFO, format='%(asctime)s %(levelname)-8s %(message)s', datefmt='%Y-%m-%d %H:%M:%S')
 logging.basicConfig(filename="errors.log", level=logging.ERROR, format='%(asctime)s %(levelname)-8s %(message)s', datefmt='%Y-%m-%d %H:%M:%S')
@@ -19,7 +20,7 @@ querystring = {
 }
 
 def get_message(data):
-    if data["cod"] == "200":
+    if data["cod"] == 200:
         message = f"It is currently {data['main']['temp']} degrees in {data['name']}, {data['sys']['country']}."
     else:
         message = data["message"]
@@ -47,7 +48,6 @@ if __name__ == '__main__':
                 print(message)
                 print("\n")
             except Exception as exc:
-                logger.error(f"User entered: {user_input} - {exc}")
+                logger.error(f"User entered: {user_input} - {traceback.print_exc()}")
                 print("Something went wrong fetching data. Please try again.")
                 print("\n")
-
