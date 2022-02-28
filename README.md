@@ -52,3 +52,6 @@ This demo covers a basic visualization implementation with pandas and matplotlib
 
 ### [Free Data Sets](./modules/where-to-get-data/)
 A list of free data sets and API's to be used as project resources
+
+### [Webscraping](./modules/webscraping/)
+This demo covers a basic example of scraping a website for data and displaying it in tabular form.
