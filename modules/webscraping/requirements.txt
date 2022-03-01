@@ -1,0 +1,4 @@
+ipython>=7.31.1
+selenium
+pandas
+webdriver-manager
